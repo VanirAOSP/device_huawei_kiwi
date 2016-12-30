@@ -134,6 +134,10 @@ telephony.lteOnCdmaDevice=1
 persist.radio.add_power_save=1
 persist.radio.modem.cap=7E442
 
+#Ril Experimental
+persist.radio.multisim.config=dsds
+ro.telephony.ril.config=simactivation
+
 # Tethering
 sys.usb.rps_mask=10
 persist.sys.usb.config.extra=none
