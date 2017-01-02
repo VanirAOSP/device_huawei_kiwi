@@ -135,6 +135,8 @@ persist.radio.modem.cap=7E442
 #Ril Experimental
 persist.radio.multisim.config=dsds
 ro.telephony.ril.config=simactivation
+persist.dbg.volte_avail_ovr=1
+persist.dbg.vt_avail_ovr=1
 
 # Tethering
 sys.usb.rps_mask=10
