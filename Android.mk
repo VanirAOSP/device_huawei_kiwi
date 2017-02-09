@@ -20,7 +20,6 @@ include $(call all-makefiles-under,$(LOCAL_PATH))
 
 include $(CLEAR_VARS)
 
-<<<<<<< HEAD
 FP_IMAGES := \
     fingerpr.b00 fingerpr.b01 fingerpr.b02 fingerpr.b03 fingerpr.mdt
 
